@@ -1,66 +1,56 @@
-# Jopex Light Studio - License Agreement
+# Jopex Light Studio License Agreement
 
-**Copyright © 2025 Jopex Creatives. All Rights Reserved.**
+Copyright © 2025 Jopex Creatives. All Rights Reserved.
 
----
-
-## 1. Grant of License
+## Grant of License
 
 Jopex Creatives grants you a non-exclusive, non-transferable license to use the Jopex Light Studio addon ("the Software") for personal or commercial projects.
 
----
+## Permitted Uses
 
-## 2. Permitted Uses
+You may:
+- Use the Software in personal or commercial projects.
+- Install the Software on multiple computers you own or control.
+- Modify the Software for your own personal use.
 
-✅ You may:
-- Use the Software in any number of personal or commercial projects
-- Install the Software on multiple computers you own or control
-- Modify the Software for personal use only
+## Prohibited Uses
 
----
+You may not:
+- Redistribute, sell, rent, lease, or sublicense the Software.
+- Include the Software in another software package or addon.
+- Remove or alter any copyright notices.
+- Claim ownership of the Software.
+- Upload the Software to any public repository or file-sharing platform.
+- Share the Software through torrents or similar distribution methods.
 
-## 3. Prohibited Uses
+## Disclaimer of Warranty
 
-❌ You may NOT:
-- Redistribute, sell, rent, lease, or sublicense the Software
-- Include the Software in any other software package or addon
-- Remove or alter any copyright notices within the Software
-- Claim ownership of the Software
-- Upload the Software to any public repository or sharing platform
-- Share the Software via torrents, file-sharing sites, or any other distribution method
+The Software is provided "AS IS", without warranty of any kind, express or implied. Jopex Creatives shall not be liable for any damages arising from the use or inability to use the Software.
 
----
+## Support
 
-## 4. Disclaimer of Warranty
+Support is available for the original purchaser through:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Email: jopexcreatives@gmail.com
 
----
+Support may include installation help, bug fixes, and minor updates.
 
-## 5. Support
+## Updates
 
-Support is provided via email (jopexcreatives@gmail.com) for the original purchaser only. Support may include bug fixes, feature updates, and installation assistance.
+Minor updates within the same major version may be provided at the discretion of Jopex Creatives.
 
----
+## Termination
 
-## 6. Updates
+Failure to comply with this license automatically terminates your right to use the Software. Upon termination, all copies of the Software must be destroyed.
 
-Updates to the Software will be provided at the discretion of Jopex Creatives. You are entitled to all minor updates (version x.y.z) within the same major version.
+## Contact
 
----
+**Jopex Creatives**
 
-## 7. Termination
+Email: jopexcreatives@gmail.com
 
-This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term of this license. Upon termination, you must cease all use of the Software and destroy all copies.
-
----
-
-## 8. Contact Information
-
-Jopex Creatives  
-Email: jopexcreatives@gmail.com  
 Tel: 0555064699
 
 ---
 
-**By installing and using this Software, you acknowledge that you have read this License Agreement and agree to be bound by its terms.**
+By installing or using this Software, you acknowledge that you have read and agree to this License Agreement.
