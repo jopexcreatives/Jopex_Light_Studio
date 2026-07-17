@@ -1,6 +1,6 @@
 # Jopex Light Studio
 
-**Professional Lighting Addon for Blender**
+Professional lighting addon for Blender.
 
 Developed by Jopex Creatives  
 Contact: jopexcreatives@gmail.com  
