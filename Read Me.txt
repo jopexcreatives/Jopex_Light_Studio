@@ -1,0 +1,226 @@
+# Jopex Light Studio
+
+**Professional Lighting Addon for Blender**
+
+Developed by Jopex Creatives  
+Contact: jopexcreatives@gmail.com  
+Version: 1.0.0  
+© 2025 Jopex Creatives. All Rights Reserved.
+
+---
+
+## 📌 Overview
+
+Jopex Light Studio is a professional lighting toolkit for Blender that provides quick lighting presets, individual light controls, master controls, and HDRI environment lighting. Perfect for product visualization, portrait lighting, cinematic shots, and studio setups.
+
+---
+
+## ✨ Features
+
+### 🎯 Quick Presets
+- **3 Point Studio** - Classic balanced lighting
+- **Product Soft** - Even, shadowless product lighting
+- **Portrait** - Flattering warm lighting
+- **Cinematic** - High contrast dramatic lighting
+- **Dramatic** - Noir style extreme contrast
+- **Outdoor Sun** - Natural sunlight simulation
+
+### 💡 Light Controls
+- Individual light power, color, distance, angle, size, height
+- Shadow toggle and softness control
+- Rig control toggle (track to central rig or free movement)
+- Multiple light types: Area, Point, Sun, Spot
+- Expandable details panel for each light
+
+### 🎛️ Master Controls
+- Global power multiplier
+- Global distance scale
+- Global angle offset
+- Global height offset
+- Global scale (0.01 to 1000 - for large scenes)
+- Global color override
+- Global light type change
+
+### 🌍 HDRI Studio
+- Load and mix TWO HDRIs simultaneously
+- Individual rotation for each HDRI
+- Strength control for lighting
+- Separate background strength (camera vs reflections)
+- Exposure and contrast adjustment
+- Color tint with strength control
+- Enable/disable toggle per HDRI
+
+### 💾 Preset System
+- Save complete lighting setups including HDRI
+- Load saved presets instantly
+- JSON-based storage
+
+---
+
+## 🚀 Installation
+
+1. Download the `Jopex_Light_Studio.zip` file
+2. Open Blender
+3. Go to **Edit → Preferences → Add-ons**
+4. Click **Install** and select the zip file
+5. Enable **Jopex Light Studio** by checking the box
+6. The panel appears in the **3D Viewport Sidebar** under "Jopex Light Studio"
+
+---
+
+## 📖 How to Use
+
+### Step 1: Select Target Object
+- Click the **"Click to Select Object"** button
+- Pick the object you want to light in the viewport
+- The object name will appear in the panel
+
+### Step 2: Apply a Preset (Optional)
+- Click **QUICK PRESETS** menu
+- Choose from 6 professional lighting setups
+- Lights are automatically created and positioned
+
+### Step 3: Adjust Individual Lights
+- Expand each light in the ACTIVE LIGHTS section
+- Click the gear icon to show/hide controls
+- Adjust power, color, distance, angle, size, height
+- Toggle shadows and softness
+
+### Step 4: Use Master Controls (Optional)
+- Expand MASTER CONTROLS
+- Adjust global settings that affect all lights
+- Use Scale for very large objects (up to 1000x)
+
+### Step 5: Add HDRI Environment
+- Expand HDRI STUDIO section
+- Load HDRI 1 and/or HDRI 2 (supports .hdr and .exr)
+- Adjust mix factor to blend between them
+- Control strength, rotation, exposure, contrast, tint
+
+### Step 6: Save Your Preset
+- Click **Save Preset** button
+- Enter a name for your preset
+- All lights AND HDRI settings are saved
+
+---
+
+## 🎮 Interface Guide
+
+### QUICK PRESETS Panel
+| Button | Action |
+|--------|--------|
+| Target Object | Select the object to light |
+| QUICK PRESETS | Menu with 6 lighting presets |
+| + ADD NEW LIGHT | Create a new custom light |
+| Clear All Lights | Remove all Jopex lights |
+| Reset | Reset to 3 Point Studio |
+| Save Preset | Save current setup |
+| Load Preset | Load saved preset |
+
+### ACTIVE LIGHTS Panel (per light)
+| Icon | Action |
+|------|--------|
+| Light Type dropdown | Change light type (Area/Point/Sun/Spot) |
+| Name field | Rename the light |
+| Eye icon | Enable/disable light |
+| Gear icon | Show/hide advanced controls |
+| Chain icon | Toggle rig control (on/off) |
+| Trash icon | Delete the light |
+
+### HDRI STUDIO Panel
+| Control | Function |
+|---------|----------|
+| HDRI 1/2 Enable | Turn HDRI on/off |
+| Load button | Browse for .hdr or .exr file |
+| Rotation | Rotate HDRI (0-360°) |
+| Mix Factor | Blend between HDRI 1 and 2 |
+| Strength | HDRI lighting brightness |
+| BG Strength | Background brightness (camera view) |
+| Exposure | Brightness adjustment |
+| Contrast | Contrast adjustment |
+| Tint | Color tint for HDRI |
+| Tint Strength | How strong the tint is |
+
+### MASTER CONTROLS Panel
+| Control | Effect |
+|---------|--------|
+| All Power | Multiplier for all light powers |
+| All Distance | Scale all light distances |
+| All Angle Offset | Rotate all lights around target |
+| All Height Offset | Move all lights up/down |
+| Master Scale | Scale everything (lights + rig) |
+| All Color | Override all light colors |
+| All Type | Change all light types at once |
+
+---
+
+## 🔧 Requirements
+
+- Blender 3.0 or higher
+- Windows / Mac / Linux
+
+---
+
+## ❓ Troubleshooting
+
+**No lights appear after applying preset?**
+- Make sure you selected a Target Object first
+- Check if lights are enabled (eye icon should be open)
+
+**HDRI not showing?**
+- Make sure HDRI is enabled (checkbox)
+- Try increasing Strength value
+- Check that you're in Rendered or Material Preview view mode
+
+**Lights not tracking the rig?**
+- Check that the Rig Control icon (chain) is enabled for each light
+- Make sure the "Jopex_Lighting_Rig" exists (created automatically)
+
+**Preset not saving HDRI?**
+- HDRI settings are automatically saved with presets
+- Make sure you loaded HDRI files before saving
+
+**Scale not working for large objects?**
+- Master Scale goes up to 1000
+- Increase scale value gradually until lights fit your object
+
+---
+
+## 📝 Notes
+
+- Lights created by this addon have a custom property `jopex_light = True` for identification
+- The lighting rig is an empty object named "Jopex_Lighting_Rig"
+- Presets are saved as .json files in the `presets` folder inside the addon directory
+- HDRI images are not embedded in presets - only the file path is saved
+- Timer refresh rate is 0.5 seconds to minimize GPU usage
+
+---
+
+## 🐛 Known Issues
+
+- None reported yet
+
+---
+
+## 📧 Support
+
+For questions, bug reports, or feature requests:
+
+**Email:** jopexcreatives@gmail.com  
+**Tel:** 0555064699
+
+---
+
+## 📄 License
+
+This addon is proprietary software. Unauthorized distribution or modification is prohibited.
+
+---
+
+## 🙏 Credits
+
+Developed by **Jopex Creatives**
+
+---
+
+*Thank you for using Jopex Light Studio!*

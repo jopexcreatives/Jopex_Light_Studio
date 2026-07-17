@@ -1,0 +1,66 @@
+# Jopex Light Studio - License Agreement
+
+**Copyright © 2025 Jopex Creatives. All Rights Reserved.**
+
+---
+
+## 1. Grant of License
+
+Jopex Creatives grants you a non-exclusive, non-transferable license to use the Jopex Light Studio addon ("the Software") for personal or commercial projects.
+
+---
+
+## 2. Permitted Uses
+
+✅ You may:
+- Use the Software in any number of personal or commercial projects
+- Install the Software on multiple computers you own or control
+- Modify the Software for personal use only
+
+---
+
+## 3. Prohibited Uses
+
+❌ You may NOT:
+- Redistribute, sell, rent, lease, or sublicense the Software
+- Include the Software in any other software package or addon
+- Remove or alter any copyright notices within the Software
+- Claim ownership of the Software
+- Upload the Software to any public repository or sharing platform
+- Share the Software via torrents, file-sharing sites, or any other distribution method
+
+---
+
+## 4. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## 5. Support
+
+Support is provided via email (jopexcreatives@gmail.com) for the original purchaser only. Support may include bug fixes, feature updates, and installation assistance.
+
+---
+
+## 6. Updates
+
+Updates to the Software will be provided at the discretion of Jopex Creatives. You are entitled to all minor updates (version x.y.z) within the same major version.
+
+---
+
+## 7. Termination
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term of this license. Upon termination, you must cease all use of the Software and destroy all copies.
+
+---
+
+## 8. Contact Information
+
+Jopex Creatives  
+Email: jopexcreatives@gmail.com  
+Tel: 0555064699
+
+---
+
+**By installing and using this Software, you acknowledge that you have read this License Agreement and agree to be bound by its terms.**
